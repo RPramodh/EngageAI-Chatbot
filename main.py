@@ -1,5 +1,4 @@
 import os
-
 import streamlit as st
 from dotenv import load_dotenv
 import google.generativeai as gen_ai
@@ -11,8 +10,8 @@ load_dotenv()
 # Configure Streamlit page settings
 st.set_page_config(
     page_title="Engage-AI",
-    page_icon="🕸️",  # Favicon emoji
-    layout="centered",  # Page layout option
+    page_icon="🕸️", 
+    layout="centered",
 )
 
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
