@@ -1,3 +1,6 @@
+
+Chatbot using Gemini-pro API build using LangChain💥
+
 🚀 Introducing Engage-AI, a cutting-edge chatbot powered by the Gemini-Pro API, designed to revolutionize your conversational experience!
 
 🎨 Streamlit Frontend: With a sleek and intuitive Streamlit frontend, Engage-AI offers a seamless interface for interacting with the AI-powered chatbot.
